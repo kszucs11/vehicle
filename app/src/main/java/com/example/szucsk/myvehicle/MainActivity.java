@@ -8,7 +8,7 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
-
+//this is new
     private static final String TAG = "MyVehicleActivity";
     private EditText editTextMake;
     private EditText editTextYear;

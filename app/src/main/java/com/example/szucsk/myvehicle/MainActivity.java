@@ -8,7 +8,7 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
-//ii
+
     private static final String TAG = "MyVehicleActivity";
     private EditText editTextMake;
     private EditText editTextYear;
@@ -36,6 +36,6 @@ public class MainActivity extends AppCompatActivity {
         Log.d(TAG, "User clicked " + Vehicle.counter + " times.");
         Log.d(TAG, "User message is \"" + vehicle + "\".");
     }
-//semmi
+
 
 }
